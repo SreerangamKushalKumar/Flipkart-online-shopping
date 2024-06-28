@@ -1,8 +1,15 @@
 # Flipkart-online-shopping
-These is an Assignment which is given a company..
-These project is done for an assignment 
+These is an Assignment(Coding Test) Which is given by the Company..
+
+1.These Assignment Requirement Provided by the Company: Categories and Subcategories Should Expand on Hover, Support for Nested Subcategories
+(e.g.,Mobiles->Oppo).
+
+2.Implemented a Search to easy Searching within Categories and Subcategories.
+
+3.Resuable Components, such as Expandable Dropdown.   
+
 ![image](https://github.com/SreerangamKushalKumar/Flipkart-online-shopping/assets/112310432/ff7ca93f-028a-4e85-9a31-86a60717d88b)
-theses is an frontend image look 
+These is an Frontend Image Look 
 
 ![image](https://github.com/SreerangamKushalKumar/Flipkart-online-shopping/assets/112310432/c08f2afb-eeb1-449b-9db3-d09e36f17b0c)
 
