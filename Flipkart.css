@@ -128,66 +128,10 @@ align-items: center;
 .profile-heading>div>a>p{
 padding-left: 10px;
 }
-.sign-in{
-list-style: none;
-}
-.sign-in>a{
-display: flex;
-font-size: 16px;
-font-family: 'Inter', sans-serif;
-align-items: center;
-text-decoration: none;
-color: #000000;
-}
-.sign-in>a>p{
-padding-left: 7px;
-}
 .fa-angle-down{
 display: flex;
 align-items: center;
 padding-left: 5px;
-}
-.s-bar:hover{
-background-color: #2A55E5;
-color: #fff;
-border-radius: 10px;
-}
-.sign-in>a:hover{
-color: #fff;
-}
-.sub-menu1{
-display: none;
-padding-top: 10px;
-}
-.sub-menu1>ul>li{ 
-display: flex;
-align-items: center;
-line-height: 40px; 
-}
-.sub-menu1>ul>li:hover{
-background-color: #f1f1f1;
-}
-.s-bar:hover .sub-menu1{
-display: block;
-position: absolute;
-background-color: #fff;
-box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-border-radius: 5px;
-width: 250px;
-height: 260px;
-margin-top: 6.1px;
-margin-left: -15px;
-}
-.sub-menu1>ul>li>img{
-width: 17px;
-padding-left: 15px;
-}
-.sub-menu1>ul>li>img+a{
-font-size: 15px;
-text-decoration: none;
-padding-left: 15px;
-font-family: 'Inter', sans-serif;
-color: #000000;
 }
 .Cart-1{
 padding-left: 24px;
