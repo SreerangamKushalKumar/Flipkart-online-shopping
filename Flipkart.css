@@ -44,11 +44,9 @@ font-family: sans-serif;
 i{
 color: white;
 }
-
 .Cart{
 color: white;
 float: right;
-
 }
 .things-select{
 border: none;
@@ -245,30 +243,26 @@ padding-left: 15px;
 background-color: #f1f1f1; 
 }
 .centered-list {
-text-align: center; /* Center align the list items */
-list-style-type: none; /* Remove default list styling */
-padding: 0; /* Remove default padding */
+text-align: center; 
+list-style-type: none;
+padding: 0; 
 }
-
 .centered-list .search-bar {
 margin-bottom: 10px;
-margin-left: 10px; /* Optional: Add margin below the search bar */
+margin-left: 10px;
 }
-
 .centered-list li {
-display: inline-block; /* Display list items horizontally */
-margin-right: 10px; /* Optional: Adjust spacing between list items */
+display: inline-block; 
+margin-right: 10px;
 }
-
 .centered-list li:last-child {
-margin-right: 0; /* Remove right margin from the last list item */
+margin-right: 0; 
 }
 
 .centered-list input[type="text"] {
-padding: 5px; /* Adjust padding for the input field */
-width: 200px; /* Adjust width of the input field as needed */
+padding: 5px; 
+width: 200px; 
 }
-
 .sub-menu2>ul>li{
 display: flex;
 align-items: center;
